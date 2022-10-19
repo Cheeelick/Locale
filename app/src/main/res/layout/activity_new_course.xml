@@ -14,7 +14,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:hint="Enter Course Name" />
+        android:hint="Name" />
+
 
     <!--edit text for our course description-->
     <EditText
@@ -22,7 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:hint="Enter Course Description" />
+        android:hint="surname" />
 
     <!--edit text for course description-->
     <EditText
@@ -30,7 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:hint="Course Duration" />
+        android:hint="what for debt" />
 
     <!--button for saving data to room database-->
     <Button
@@ -39,7 +40,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:padding="5dp"
-        android:text="Save your course"
+        android:text="add the debtor"
         android:textAllCaps="false" />
 
 
